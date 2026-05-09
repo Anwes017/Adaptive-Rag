@@ -37,7 +37,7 @@ requirements.txt      Python dependencies
 
 ## Environment Variables
 
-Create a `.env` file in the project root:
+Copy `.env.example` to `.env` in the project root and fill in your local values:
 
 ```env
 GEMINI_API_KEY=your_gemini_api_key
